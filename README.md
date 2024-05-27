@@ -1,4 +1,4 @@
-# 🐬 Regeexxx
+# 🐯 Regeexxx
 🌍  I'm based in Philippines<br>✉️  You can contact me at jesreel2019@gmail.com<br>🧠  I'm learning Numpy, Pytorch JS<br>🤝  I'm open to collaborating on Automation Projects<br>⚡  lazy dev
 
 
