@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌍 I'm based in Philippines<br>✉️ You can contact me at jesreel2019@gmail.com<br>🧠 I'm learning TensorFlow, Pytorch JS, MobileViTv2<br>🤝 I'm open to collaborating on Automation Projects<br>⚡ Tech enthusiast by passion
+ALL MAIN PROJECTS AND STARTUP ARE CURRENTLY SET IN PRIVATE
 
 
 ## 🌐 Socials:
